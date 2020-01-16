@@ -43,4 +43,3 @@ class Scraper
     student_profile
   end
 end
-© 2020 GitHub, Inc.
